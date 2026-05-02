@@ -1,7 +1,6 @@
 # 🍹 APIRD: Drinks Management API
 
 A robust RESTful API built with **Django 5.1** and **Django REST Framework** for managing a catalog of drinks. This project is structured for global scalability with extensive localization support.
-
 ---
 
 ## 📁 Project Structure
